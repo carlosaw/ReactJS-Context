@@ -6,13 +6,10 @@ Projeto em React + typescript + react-router-dom
 Projeto desenvolvido durante o curso [B7web](https://b7web.com.br)
 
 ## Deploy github
-[github]()
-
-## homepage github
-[github]()
+[github](https://github.com/carlosaw/ReactJS-Context.git)
 
 ## homepage vercel
-[vercel]()
+[vercel](https://react-js-context.vercel.app/)
 
 ### Instalação
 - `npm install`
